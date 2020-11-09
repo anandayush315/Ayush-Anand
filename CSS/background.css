@@ -1,0 +1,67 @@
+.bottom-container{
+  text-align: center;
+  margin-top: -10px;
+}
+
+
+
+.contact-me {
+  width: 100%;
+  height: 180px;
+  background-color: #ff2e63;
+  padding-top: 30px;
+}
+
+.contact-head {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #252a34;
+  width: 30%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-desc {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #252a34;
+  font-size: 1.2em;
+}
+
+.footer {
+  background-color: #252a34;
+}
+
+.footer-link {
+  text-align: center;
+}
+
+.icon {
+  filter: invert(100%);
+  margin: 8px 30px 1px 30px;
+  text-align: center;
+  width: 20px;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #252a34;
+  border-radius: 28px;
+  border: 1px solid #08d9d6;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 12px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #08d9d6;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
