@@ -21,6 +21,8 @@ h1 {
   color: #16a596;
   font-size: 4.5em;
   width: 15%;
+    position: relative;
+    z-index: 5;
 }
 
 p {
@@ -35,6 +37,8 @@ h3 {
   color: #16a596;
   font-size: 1.5em;
   margin: 0;
+  position: relative;
+  z-index: 5;
 }
 
 h2 {
@@ -94,6 +98,7 @@ a{
 .mountain {
   width: 100%;
   position: relative;
+  z-index: 4;
   top: -120px;
 }
 
