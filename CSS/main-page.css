@@ -43,6 +43,10 @@ h2 {
   font-size: 2em;
 }
 
+a{
+  color: inherit;
+}
+
 /***********************class**********************/
 .left {
   text-align: left;
@@ -188,6 +192,8 @@ h2 {
   text-align: center;
   margin-top: -10px;
 }
+
+
 
 .contact-me {
   width: 100%;
