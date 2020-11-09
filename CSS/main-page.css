@@ -111,9 +111,10 @@ h2 {
   background-color: #eaeaea;
   padding-top: 50px;
   margin-top: -150px;
+  padding-bottom: 30px;
 }
 
-.Books-I-am-reading {
+.All-Books {
   width: 700px;
   margin: 50px auto 50px auto;
 }
@@ -171,15 +172,24 @@ h2 {
   vertical-align: top;
 }
 
+.bottom-container{
+  text-align: center;
+}
+
 .contact-me {
-  padding-top: 5px;
+  width: 100%;
+  height: 180px;
   background-color: #ff2e63;
+  padding-top: 30px;
 }
 
 .contact-head {
   font-family: 'Roboto Condensed', sans-serif;
   color: #252a34;
-  font-size: 1.7em;
+  width: 30%;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-desc {
@@ -204,6 +214,7 @@ h2 {
 }
 
 .btn {
+  margin-top: 20px;
   margin-bottom: 20px;
   background-color: #252a34;
   border-radius: 28px;
